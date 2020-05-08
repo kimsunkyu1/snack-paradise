@@ -1,0 +1,4 @@
+<?
+$db=mysqli_connect("localhost","사용자ID","DB암호","DB이름");
+if(!$db) exit("DB연결에러");
+?>
