@@ -91,8 +91,8 @@
 													<tr>
 														<td height="30"><img src="images/login_image6.gif" border="0"></td>
 														<td height="30">
-															<a href="member_idpw.html" onfocus="this.blur()"><img src="images/b_id.gif" width="64" height="19" border="0" align="absmiddle"></a> &nbsp; 
-															<a href="member_idpw.html" onfocus="this.blur()"><img src="images/b_pw.gif" width="64" height="19" border="0" align="absmiddle"></a>
+															<a href="member_idpw.php" onfocus="this.blur()"><img src="images/b_id.gif" width="64" height="19" border="0" align="absmiddle"></a> &nbsp; 
+															<a href="member_idpw.php" onfocus="this.blur()"><img src="images/b_pw.gif" width="64" height="19" border="0" align="absmiddle"></a>
 														</td>
 													</tr>
 												</table>												
